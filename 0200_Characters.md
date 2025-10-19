@@ -54,14 +54,14 @@ CON represents a characters physical
 ### Charisma
 
 Each Characteristic also has derivative Characteristicx5. This is t
---
+---
 In the Torment Engine, each attribute is conce
 | | **Physical** | **Mental** | **Social** |
 |:---|:---|:---|:---|
 | **Power** | STR (Strength) | INT (Intellect) | DOM (Dominance) |
 | **Resilience** | CON (Constitution) | POW (Power) | COM (Composure) |
 | **Finesse** | DEX (Dexterity) | EDU (Education) | CHA (Charisma) |
---
+---
 ### Strength
 Each Characteristic also has derivative Characteristicx5. This is t
 
