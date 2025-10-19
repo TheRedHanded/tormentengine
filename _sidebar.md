@@ -11,7 +11,8 @@
 - [Gamemastering](0900_Gamemastering.md)
 - [Settings](1000_Settings.md)
 - [Creatures](1100_Creatures.md)
----
+
 #### BRP SRDs
+---
 - [BRUGE SRD](https://brpugesrd.xyz/#)
 - [Mythras SRD](https://srd.mythras.net)
