@@ -8,7 +8,12 @@ It also draws from other innovations and such as the [Cthulhu Eternal](https://c
 
 ## ORC NOTICE
 
-This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense), [www.azoralaw.com/orclicense](https://www.azoralaw.com/orclicense), [www.paizo.com/orclicense](https://paizo.com/orclicense) and others. All warranties are disclaimed as set forth therein. This product is the original work of Chaosium.
+This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including:
+* [Chaosium](https://www.chaosium.com/orclicense)
+* [Azora Law](https://www.azoralaw.com/orclicense)
+* [Paizo](https://paizo.com/orclicense)
+  
+Along with others. All warranties are disclaimed as set forth therein. This product is the original work of Chaosium.
 
 ### ORC Licensing
 Torment Engine is published using the ORC License. What is openly shared under the ORC is known as Licensed Material, 
