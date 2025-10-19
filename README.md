@@ -1,18 +1,9 @@
-# Basic Roleplaying Universal GameREADME Engine
+# The Torment Engine
 
-ORC Content Document
+The Torment Engine is a BRP-derived
 
-## Credits
-
-Based on the Basic Roleplaying system created by Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen, Ray Turney, Lynn Willis
-
-**Authors** Jason Durall and Steve Perrin
-
-**Producer** Neil Robinson
-
-**Additional Credits** Daria Pilarczyk, Rick Meints, Michael O’Brien, and Jeff Richard
-
-**Special Thanks** Ken St. Andre, Ken Austin, William Barton, Bill Dunn, Ken Finlayson, Mark L. Gambler, Sam Johnson, William Jones, Rodney Leary, Ben Monroe, Gordon Monson, Sarah Newton, Sam Shirley, Mark Morrison, and Richard Watts
+This ruleset was primarily based upon the [BRUGE SRD](https://brpugesrd.xyz/#); and incorporates elements of the [Mythras SRD](https://srd.mythras.net), as well.
+It also draws from other innovations and such as the [Cthulhu Eternal](https://cthulhueternal.com)
 
 ## Publication Data
 
@@ -31,6 +22,18 @@ Basic Roleplaying is copyright © 1981, 1983, 1992, 1993, 1995, 1998, 1999, 2001
 Basic Roleplaying is the trademark of Chaosium Inc.
 
 Chaosium Inc. and the Chaosium logo are registered trademarks of Chaosium Inc.
+
+## Credits
+
+Based on the Basic Roleplaying system created by Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen, Ray Turney, Lynn Willis
+
+**Authors** Jason Durall and Steve Perrin
+
+**Producer** Neil Robinson
+
+**Additional Credits** Daria Pilarczyk, Rick Meints, Michael O’Brien, and Jeff Richard
+
+**Special Thanks** Ken St. Andre, Ken Austin, William Barton, Bill Dunn, Ken Finlayson, Mark L. Gambler, Sam Johnson, William Jones, Rodney Leary, Ben Monroe, Gordon Monson, Sarah Newton, Sam Shirley, Mark Morrison, and Richard Watts
 
 ## ORC Notice
 
