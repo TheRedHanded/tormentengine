@@ -2,7 +2,7 @@
 - [Introduction](0100_Introduction.md)
 - [Characters](0200_Characters.md)
 - 
-#### Character Statistics
+#### Statistics
 - [Characteristics](0201_Characteristics.md)
 - [Attributes](0202_Attributes.md)
 - [Skills](0203_Skills.md)
@@ -11,7 +11,7 @@
 - [Archetypes](0206_Skills.md)
 - [Vocations](0207_Skills.md)
 - [Estate](0208_Equipment.md)
-- [Resilience](0209_Resilience.md)
+- [Stability](0209_Stability.md)
 
 #### Lists
 - [Traits](0300_Traits.md)
@@ -33,11 +33,14 @@
 - [Enterprises](0800_Estate.md)
 - [Downtime](0800_Estate.md)
   
- #### Gamemastering
+ #### Gamemasteri
 - [Gamemaster](0900_Gamemastering.md)
 - [Settings](1000_Settings.md)
 - [NPCs](0208_Equipment.md)
 - [Creatures](1100_Creatures.md)
+- [Constructs](1100_Creatures.md)
+- [Entities](1100_Creatures.md)
+- [Hazards](1100_Creatures.md)
 
 #### BRP SRDs
 ---
