@@ -31,6 +31,7 @@
 - [Effects](0208_Equipment.md)
 - [Transport](0208_Equipment.md)
 - [Enterprises](0800_Estate.md)
+- [Factions](0800_Estate.md)
 - [Downtime](0800_Estate.md)
   
  #### Gamemasteri
@@ -42,7 +43,5 @@
 - [Entities](1100_Creatures.md)
 - [Hazards](1100_Creatures.md)
 
-#### BRP SRDs
----
-- [BRUGE SRD](https://brpugesrd.xyz/#)
+--- [BRUGE SRD](https://brpugesrd.xyz/#)
 - [Mythras SRD](https://srd.mythras.net)
