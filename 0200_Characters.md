@@ -4,6 +4,8 @@ Characters are the actors in which the pretense of the story takes place. To put
 
 While the gamemaster describe the gameworld and the various non-player characters (NPCs); Every player at the table controls a player character (PC). These PCs are defined with various elements.
 
+# Definitions
+## Characteristics
 * **Characteristics**: Core stats that represent innate
 * **Attributes**:
 * **Skills**: 
@@ -14,15 +16,13 @@ While the gamemaster describe the gameworld and the various non-player character
 * **Estate**:
 * **Resilience**:
 
+
 Most of these defining elements are described in numbers, but some are represented as concepts or a mixture of both. The following sections below will illustrate this.
 
-## Step 1: Character Concept
-## Step 2: Basic Information
-
-*Name
-*Age
-*
-## Step 3: The Characteristics
+# Character Creation
+## Character Concept
+## Basic Information
+## Step 1: The Characteristics
 
 Everyone in the gameworld has 9 inherent Charicteristics. These represent the foundational aspects of a person.
 Like many other character aspects the Torment ENgine separates them into 3 categories. Physical, Mental, Social
@@ -85,7 +85,7 @@ In the Torment Engine, each attribute is conce
 ### Strength
 Each Characteristic also has derivative Characteristicx5. This is t
 
-### Step 4: Attributes
+### Step 3: Attributes
 
 Attributes are secondary capabilities derived from Characteristics
 
