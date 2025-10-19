@@ -10,6 +10,6 @@
 - [Settings](1000_Settings.md)
 - [Creatures](1100_Creatures.md)
 ---
-- [Mythras Imperative SRD](https://srd.mythras.net)
-- [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
-- [BRP UGE SRD alternate](https://bruge.us/rules/srd/)
+#### BRP SRDs
+- [BRUGE SRD](https://brpugesrd.xyz/#)
+- [Mythras SRD](https://srd.mythras.net)
