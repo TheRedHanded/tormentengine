@@ -4,7 +4,7 @@ Characters are the actors in which the pretense of the story takes place. To put
 
 While the gamemaster describe the gameworld and the various non-player characters (NPCs); Every player at the table controls a player character (PC). These PCs are defined with various elements.
 
-* **Characteristics**:
+* **Characteristics**: Core stats that represent innate
 * **Attributes**:
 * **Skills**: 
 * **Traits**: Unique character elements that confer some sort of statistical alteration like ex. Race, Culture, Class, Background
@@ -25,42 +25,62 @@ Most of these defining elements are described in numbers, but some are represent
 ## Step 3: The Characteristics
 
 Everyone in the gameworld has 9 inherent Charicteristics. These represent the foundational aspects of a person.
+Like many other character aspects the Torment ENgine separates them into 3 categories. Physical, Mental, Social
 
+They are as follows:
 
-These are:
-
+### Physical
 * Strength (STR)
-* Constitution (CON)
+* Constitution (CON) 
 * Dexterity (DEX)
-
+### Mental
 * Intellect (INT)
-* Willpower (POW)
+* Power (POW)
 * Education (EDU)
-
+### Social
 * Dominance (DOM)
 * Composure (COM)
 * Charisma (CHA)
---
-### Strength (STR)
-STR represents a character's physical strength.
-### Constitution (CON)
-CON represents a characters physical
-### Dexterity
-### Intellecct
-### Willpower
-### Education
-### Dominance
-### Composure
-### Charisma
+
+---
+
+### Characteristics Definitions
+
+
+#### Strength (STR)
+* STR represents a character's physical strength. If STR is reduced to 0 then the character cannot move, pick anything up, or exert any change in the physical world.
+
+* Determines: Unarmed/Melee Damage Bonus
+
+#### Constitution (CON)
+* CON represents a characters physical hardiness. If CON is reduced to 0, the character dies.
+
+Determines: VITALITY
+
+### Dexterity (DEX)
+DEX represents a character's ability to skillfully interact with the physical world. If DEX goes to 0, the char loses all control of their motor functions.
+
+Determines:
+
+### Intellect (INT)
+INT represents a character's raw intelligence
+### Willpower (POW)
+POW represents a character's inner will. The essence that drives them.
+### Education (EDU)
+EDU represents 
+
+### Dominance (DOM)
+### Composure (COM)
+### Charisma (CHA)
 
 Each Characteristic also has derivative Characteristicx5. This is t
 ---
 In the Torment Engine, each attribute is conce
 | | **Physical** | **Mental** | **Social** |
 |:---|:---|:---|:---|
-| **Power** | STR (Strength) | INT (Intellect) | DOM (Dominance) |
-| **Resilience** | CON (Constitution) | POW (Power) | COM (Composure) |
-| **Finesse** | DEX (Dexterity) | EDU (Education) | CHA (Charisma) |
+| **Potency** | STR (Strength) | INT (Intellect) | DOM (Dominance) |
+| **Tolerance** | CON (Constitution) | POW (Power) | COM (Composure) |
+| **Manipulation** | DEX (Dexterity) | EDU (Education) | CHA (Charisma) |
 ---
 ### Strength
 Each Characteristic also has derivative Characteristicx5. This is t
@@ -69,6 +89,35 @@ Each Characteristic also has derivative Characteristicx5. This is t
 
 Attributes are secondary capabilities derived from Characteristics
 
+* Movement (MOV)
+* Size (SZE)
+* Vitality (VIT)
+
+* Luck (LCK)
+* Willpower (WLP)
+* Sanity (SAN)
+
+* Experience (EXP)
+* Reputation (REP)
+* Integrity (ITG)
+---
+*** Movement (MOV)
+* Size (SZE)
+* Vitality (VIT)
+
+* Luck (LCK)
+* Willpower (WLP)
+* Sanity (SAN)
+
+* Experience (EXP)
+* Reputation (REP)
+* Integrity (ITG)
+
+| | **Physical** | **Mental** | **Social** |
+|:---|:---|:---|:---|
+| **Fluence** | MOV (Movement) | LCK (Luck) | EXP (Experience) |
+| **Presence** | SZE (Size) | WLP (Willpower) | REP (Reputation) |
+| **Essence** | VIT (Vitality) | SAN (Sanity) | ITG (Integrity) |
 
 Powers are abilities that a player possesses that affect the gameworld in various ways.
 
