@@ -1,6 +1,6 @@
 # 2\. Characters
 
-Put simply, your **character** is **you** in the game world, the persona you play in the game. The character is the focus of all roleplaying games—an abstraction of physical and mental abilities, skills, and other descriptors. You interact with your gamemaster in that world through your character. Most characters controlled by players are **player characters** (PCs).
+Characters are the actors in which the pretense of the story takes place. To put simply, they are actors on the stage of collabrotive storytelling. They are defined conceptually then they are given structure through mechanics like the ones found in this document. Characters arethe focus of all role-playing games by nature. Many systems represent the abstraction of physical and mental abilities, skills, and other descriptors. Then through various methods of relaying information the gamemasters sets the stage and allows the characters to play out scenes, stories, and adventures.
 
 Your gamemaster describes the setting, the environment, and the encounters to the players. Your gamemaster has at their disposal a roster of other characters, called **non-player characters** (NPCs). Both player and non-player characters use the same rules, though generally non-player characters are less detailed than player characters, as NPCs rarely face the same variety of situations player characters do.
 
@@ -18,6 +18,10 @@ There are four game power levels, described below.
 
 Characters have no powers or very few, unreliable powers. Sometimes characters are defined by a single power, barely more than an extraordinary talent. This is the most suitable power level for horror or modern adventure games, where technology and wits are often the decisive factor in survival.
 
+### Pulp
+
+Characters have a few strong powers or a wide range of mid- to low-level powers. This is suitable for games featuring inexperienced, costumed heroes or apprentice wizards in training, the mutated survivors of a radioactive apocalypse, vigilante heroes, or a high fantasy world of wizards and warriors. Some futuristic settings might be created using this power level, with citizens having many minor powers granted by genetic manipulation.
+
 ### Heroic
 
 Characters have a few strong powers or a wide range of mid- to low-level powers. This is suitable for games featuring inexperienced, costumed heroes or apprentice wizards in training, the mutated survivors of a radioactive apocalypse, vigilante heroes, or a high fantasy world of wizards and warriors. Some futuristic settings might be created using this power level, with citizens having many minor powers granted by genetic manipulation.
@@ -26,7 +30,7 @@ Characters have a few strong powers or a wide range of mid- to low-level powers.
 
 Characters are incredibly skilled or powered, such as arch-mages, or formidable supernatural beings. Sample games might be full of veteran costumed heroes or villains, or veteran supernatural heroes fighting the forces of darkness in the shadows of the modern world.
 
-### SuperHuman
+### Superhuman
 
 These characters have immense capabilities and are the mightiest of heroes. Games might feature extraordinarily powered costumed superheroes, galactic guardians, or even modern incarnations of great demigods.
 
@@ -74,11 +78,14 @@ If the campaign is using one or more types of powers, your gamemaster may allow 
 
 ### Step Two: Powers
 
-Read this carefully\! If the game you’re playing in involves magic, mutations, psychic abilities, sorcery, or superpowers you may begin with some of these powers. Ask your gamemaster about it and refer to *Chapter Four: Powers* for more information. These systems require more explanation than is provided in this chapter.
+Powers are abilities that a player possesses that affect the gameworld in various ways.
 
-If there are no powers in the campaign, ignore this step and proceed.
+If you do not wish to include Powersthere are no powers in the campaign, ignore this step and proceed.
 
 If there are powers, the following types are available:
+* **Perks** -
+
+* **Talents** - 
 
 * **Magic:** Simple spellcasting with a wide variety of applications.
 
