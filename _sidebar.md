@@ -29,12 +29,14 @@
 - [Mental Combat](0602_Combat.md)
 - [Social Combat](0603_Combat.md)
 - [Effects](0208_Equipment.md)
+- [Transport](0208_Equipment.md)
 - [Enterprises](0800_Estate.md)
 - [Downtime](0800_Estate.md)
   
  #### Gamemastering
 - [Gamemaster](0900_Gamemastering.md)
 - [Settings](1000_Settings.md)
+- [NPCs](0208_Equipment.md)
 - [Creatures](1100_Creatures.md)
 
 #### BRP SRDs
