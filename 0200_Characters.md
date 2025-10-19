@@ -1,82 +1,48 @@
 # 2\. Characters
 
-Characters are the actors in which the pretense of the story takes place. To put simply, they are actors on the stage of collabrotive storytelling. They are defined conceptually then they are given structure through mechanics like the ones found in this document. Characters arethe focus of all role-playing games by nature. Many systems represent the abstraction of physical and mental abilities, skills, and other descriptors. Then through various methods of relaying information the gamemasters sets the stage and allows the characters to play out scenes, stories, and adventures.
+Characters are the actors in which the pretense of the story takes place. To put simply, they are actors on the stage of collaborative storytelling. They are defined conceptually then they are given structure through mechanics like the ones found in this document. Characters arethe focus of all role-playing games by nature. Many systems represent the abstraction of physical and mental abilities, skills, and other descriptors. Then through various methods of relaying information the gamemasters sets the stage and allows the characters to play out scenes, stories, and adventures.
 
-Your gamemaster describes the setting, the environment, and the encounters to the players. Your gamemaster has at their disposal a roster of other characters, called **non-player characters** (NPCs). Both player and non-player characters use the same rules, though generally non-player characters are less detailed than player characters, as NPCs rarely face the same variety of situations player characters do.
+While the gamemaster describe the gameworld and the various non-player characters (NPCs); Every player at the table controls a player character (PC). These PCs are defined with various elements.
+
+* **Characteristics**:
+* **Attributes**:
+* **Skills**:
+* **Traits**: Elements like Race, Culture, Class, Background etc that usually confer a statistical alteration
+* **Powers**:
+* **Archetype**:
+* **Vocation**:
+* **Estate**:
+* **Resilience**:
+
+Most of these defining elements are described in numbers, but some are represented as concepts or a mixture of both. The following sections below will illustrate this.
+
+## Step 1: Character Concept
+## Step 2: Basic Information
 
 *Chapter Eleven: Creatures* describes how your gamemaster can create appropriate non-player characters and includes a roster of ready-to-use non-player characters (as well as monsters and other creatures) for a variety of settings and eras. This section deals with player characters and is essential reading for you and your gamemaster alike.
 
 When a “character” is mentioned, the term applies to player characters and non-player characters.
 
-## Power Level
 
-Throughout this chapter and elsewhere in the rules are references to the game’s power level. This describes how reasonably competent the player and non-player characters are, and where on a scale from “realistic” to “mythical” gameplay will feel like.
+## Step 3: The Characteristics
 
-There are four game power levels, described below.
+Everyone in the gameworld has 9 inherent Charicteristics.
 
-### Normal
+These are:
 
-Characters have no powers or very few, unreliable powers. Sometimes characters are defined by a single power, barely more than an extraordinary talent. This is the most suitable power level for horror or modern adventure games, where technology and wits are often the decisive factor in survival.
+* Strength (STR)
+* Constitution (CON)
+* Dexterity (DEX)
 
-### Pulp
+* Intellect (INT)
+* Willpower (POW)
+* Education (EDU)
 
-Characters have a few strong powers or a wide range of mid- to low-level powers. This is suitable for games featuring inexperienced, costumed heroes or apprentice wizards in training, the mutated survivors of a radioactive apocalypse, vigilante heroes, or a high fantasy world of wizards and warriors. Some futuristic settings might be created using this power level, with citizens having many minor powers granted by genetic manipulation.
-
-### Heroic
-
-Characters have a few strong powers or a wide range of mid- to low-level powers. This is suitable for games featuring inexperienced, costumed heroes or apprentice wizards in training, the mutated survivors of a radioactive apocalypse, vigilante heroes, or a high fantasy world of wizards and warriors. Some futuristic settings might be created using this power level, with citizens having many minor powers granted by genetic manipulation.
-
-### Epic
-
-Characters are incredibly skilled or powered, such as arch-mages, or formidable supernatural beings. Sample games might be full of veteran costumed heroes or villains, or veteran supernatural heroes fighting the forces of darkness in the shadows of the modern world.
-
-### Superhuman
-
-These characters have immense capabilities and are the mightiest of heroes. Games might feature extraordinarily powered costumed superheroes, galactic guardians, or even modern incarnations of great demigods.
-
-Your gamemaster should make it clear to you and your fellow players what power level your game is, to set expectations and to guide the rest of character creation.
-
-## Creating a Character
-
-You first need a character. Following is a system for developing your character. This system creates reasonably competent characters. Suggestions are provided in each step for more powerful characters. You should have a blank character sheet handy, and maybe another sheet of paper for notes. At chaosium.com you can download digital versions.
-
-When you get ready to create your character, your gamemaster and the other players should have already decided what sort of game you’ll all play, whether it be a science fiction, fantasy, modern horror, historical intrigue, espionage, pulp action, techno-thriller, or any number of other genres.
-
-Your gamemaster should be prepared to guide you and the other players through the character creation process, knowing what professions are allowed and appropriate to the game or campaign, and what level of competency the characters should exhibit. These issues are most important to **Step Seven** and may influence **Step Three**.
-
-### Step One: Name and Characteristics
-
-Write your character’s name at the top of the page. This should be appropriate to the setting and game being played. If no idea suggests itself yet, wait until later. You can write your own name on the character sheet as your gamemaster may need to keep track of which character belongs to whom.
-
-* Choose your character’s gender and write it in the correct space.
-
-* Roll 3D6 for the characteristics Strength (STR), Constitution (CON), Power (POW), Dexterity (DEX), and Charisma (CHA). Enter the results in the appropriate places on your character sheet.
-
-* Roll 2D6+6 for the Intelligence (INT) and Size (SIZ) characteristics.
-
-These numbers provide the bare bones of your character, determining what characteristics the character is strong or weak in.
-
-* If you wish, redistribute up to 3 points between your characteristics.
-
-* No characteristic can begin at more than 21 points.
-
-* If you aren’t satisfied with the characteristics you have, and your gamemaster approves, you can start over.
-
-If the campaign is using one or more types of powers, your gamemaster may allow you to increase your starting characteristics (see Chapter Four: Powers, particularly **Diminish/Enhance Characteristic**).
-
-**Choosing Characteristic Values (Option):** Traditionally, characteristics are rolled in order, with up to 3 points redistributed. Instead, you may roll 3D6 seven times and choose where results go. In this case, SIZ and INT cannot be below 8\.
-
-**Higher Starting Characteristics (Option):** For a higher-powered game, roll 2D6+6 for all characteristics.
-
-**The Education (EDU) Characteristic (Option):** Roll 2D6+6 for Education (EDU) for this characteristic, for characters from societies with formalized education. An EDU of 12 indicates a high school graduate-level education, with higher values indicating college or advanced degrees.
-
-**Cultural Modifiers (Option):** Cultural modifiers emphasize characteristic differences between different species (such as elves or dwarves) or for different Human cultures. Initial characteristics may be adjusted or limited at this point. See **Cultural Characteristic Modifiers (Option)**.
-
-**Non-Human Characters (Option):** Non-Human characters may use different dice rolls and modifiers to determine initial characteristics. See Chapter Eleven: Creatures.
-
-**Point-based Character Creation (Option):** Usually, characteristics are rolled randomly. Instead, players can purchase characteristic points from a pool. See **Point-based Character Creation (Option)**.
-
-### Step Two: Powers
+* Dominance (DOM)
+* Composure (COM)
+* Charisma (CHA
+* )
+### Step 4: Attributes
 
 Powers are abilities that a player possesses that affect the gameworld in various ways.
 
