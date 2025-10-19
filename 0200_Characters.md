@@ -6,8 +6,8 @@ While the gamemaster describe the gameworld and the various non-player character
 
 * **Characteristics**:
 * **Attributes**:
-* **Skills**:
-* **Traits**: Elements like Race, Culture, Class, Background etc that usually confer a statistical alteration
+* **Skills**: 
+* **Traits**: Unique character elements that confer some sort of statistical alteration like ex. Race, Culture, Class, Background
 * **Powers**:
 * **Archetype**:
 * **Vocation**:
@@ -19,14 +19,13 @@ Most of these defining elements are described in numbers, but some are represent
 ## Step 1: Character Concept
 ## Step 2: Basic Information
 
-*Chapter Eleven: Creatures* describes how your gamemaster can create appropriate non-player characters and includes a roster of ready-to-use non-player characters (as well as monsters and other creatures) for a variety of settings and eras. This section deals with player characters and is essential reading for you and your gamemaster alike.
-
-When a “character” is mentioned, the term applies to player characters and non-player characters.
-
-
+*Name
+*Age
+*
 ## Step 3: The Characteristics
 
-Everyone in the gameworld has 9 inherent Charicteristics.
+Everyone in the gameworld has 9 inherent Charicteristics. These represent the foundational aspects of a person.
+
 
 These are:
 
@@ -40,9 +39,36 @@ These are:
 
 * Dominance (DOM)
 * Composure (COM)
-* Charisma (CHA
-* )
+* Charisma (CHA)
+--
+### Strength (STR)
+STR represents a character's physical strength.
+### Constitution (CON)
+CON represents a characters physical
+### Dexterity
+### Intellecct
+### Willpower
+### Education
+### Dominance
+### Composure
+### Charisma
+
+Each Characteristic also has derivative Characteristicx5. This is t
+--
+In the Torment Engine, each attribute is conce
+| | **Physical** | **Mental** | **Social** |
+|:---|:---|:---|:---|
+| **Power** | STR (Strength) | INT (Intellect) | DOM (Dominance) |
+| **Resilience** | CON (Constitution) | POW (Power) | COM (Composure) |
+| **Finesse** | DEX (Dexterity) | EDU (Education) | CHA (Charisma) |
+--
+### Strength
+Each Characteristic also has derivative Characteristicx5. This is t
+
 ### Step 4: Attributes
+
+Attributes are secondary capabilities derived from Characteristics
+
 
 Powers are abilities that a player possesses that affect the gameworld in various ways.
 
