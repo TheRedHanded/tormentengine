@@ -9,9 +9,7 @@ It also draws from other innovations and such as the [Cthulhu Eternal](https://c
 ## ORC NOTICE
 
 This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including:
-* [Chaosium](https://www.chaosium.com/orclicense)
-* [Azora Law](https://www.azoralaw.com/orclicense)
-* [Paizo](https://paizo.com/orclicense)
+[Chaosium](https://www.chaosium.com/orclicense) - [Azora Law](https://www.azoralaw.com/orclicense) - [Paizo](https://paizo.com/orclicense)
   
 Along with others. All warranties are disclaimed as set forth therein. This product is the original work of Chaosium.
 
