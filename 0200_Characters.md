@@ -85,7 +85,9 @@ If you do not wish to include Powersthere are no powers in the campaign, ignore 
 If there are powers, the following types are available:
 * **Perks** -
 
-* **Talents** - 
+* **Talents** -
+
+* **Feats** -
 
 * **Magic:** Simple spellcasting with a wide variety of applications.
 
