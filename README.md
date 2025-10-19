@@ -1,4 +1,4 @@
-# The Torment Engine
+#### The Torment Engine
 
 The Torment Engine is a BRP-derived
 
@@ -6,14 +6,14 @@ The Torment Engine is a BRP-derived
 This ruleset was primarily based upon the [BRUGE SRD](https://brpugesrd.xyz/#); and incorporates elements of the [Mythras SRD](https://srd.mythras.net), as well.
 It also draws from other innovations and such as the [Cthulhu Eternal](https://cthulhueternal.com)
 
-## ORC NOTICE
+#### ORC NOTICE
 
 This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including:
 [Chaosium](https://www.chaosium.com/orclicense) - [Azora Law](https://www.azoralaw.com/orclicense) - [Paizo](https://paizo.com/orclicense)
   
 Along with others. All warranties are disclaimed as set forth therein. This product is the original work of Chaosium.
 
-### ORC Licensing
+#### ORC Licensing
 Torment Engine is published using the ORC License. What is openly shared under the ORC is known as Licensed Material, 
 
 What is not shared under the ORC is known as Reserved Material and includes trademarks, world lore, story arcs, distinctive characters, and visual art. We have listed Reserved Material in the ORC Notice, below.
