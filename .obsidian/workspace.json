@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83d66edb9d25c8fe",
+        "id": "746af656a632a1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "91057b327b71f84b",
+            "id": "b6abd47ea533c212",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91057b327b71f84b",
+  "active": "b6abd47ea533c212",
   "lastOpenFiles": [
-    "0000_Frontpage.md"
+    "0000_Frontpage.md",
+    "0100_Introduction.md"
   ]
 }
