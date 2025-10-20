@@ -1,6 +1,6 @@
 #### The Torment Engine
 
-The Torment Engine is a BRP-derived
+The Torment Engine is a BRP-derived shitting RPG
 
 
 This ruleset was primarily based upon the [BRUGE SRD](https://brpugesrd.xyz/#); and incorporates elements of the [Mythras SRD](https://srd.mythras.net), as well.
